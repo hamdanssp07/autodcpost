@@ -1,7 +1,7 @@
 {
   "name": "discord07",
-  "version": "0.1.1",
-  "private": true,
+  "version": "1.1.2",
+
   "scripts": {
     "dev": "next dev",
     "build": "next build",
